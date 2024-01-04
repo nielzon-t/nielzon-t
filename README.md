@@ -29,3 +29,7 @@
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 
 </p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@nielzont1720/30-nites-of-code)  
+  ![@nielzont1720 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nielzont1720)
